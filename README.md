@@ -7,5 +7,5 @@
 
 ![SKILLS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)![Visitas](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![Visitas](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![Visitas](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-#### Apaixonado por tecnologias, educação e por mudar o dia a dia das pessoas atravé da programação
+#### Apaixonado por tecnologias, educação e por mudar o dia a dia das pessoas através da programação
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=DiegoRabello&countColor=%23263759)](https://visitorbadge.io/status?path=DiegoRabello)
